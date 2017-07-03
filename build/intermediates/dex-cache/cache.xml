@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_92121215df531a8f4fcae7b9b543e2a76fc24c14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_bc0a184550e7546603f66f9daa0429fb2ca5ca91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30c2133284578698137b08106c05d850bc10d511">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3a34df2724f932e93e3d5a3aba7c8157cf3c3d7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_5400e01b967001387edf2fa05a4e2f1eb31b2f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_fcc06fc6504e83a99ff87a4ef5826437e8c4a2af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_e9617b3fda4ee5a22a32c794dc5d3c9e6f9b1c61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_322570f0d50a1555aa9ab55fafda6b16f2f67c45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_b30ce21a4324eb03c19c54d49e15ad012a83c333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_d90312d5968559f8b7b2a52b3f2fd929a7c09601/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_6a428cc412f4d281e97594dd708ec03f1e9a74bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fc8c90c914c219b01c6e68cab5159a2c20c5c99">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68a6d932ef1571d9aaa05c59a57e3405b5b0a10f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_c34057439f9da10388f9b02cc61a4ba841d6e3bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_a7ea9c3e965b275255b2732d42413f843ce4c389/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_800845b58571960ab16602fb3e36e706c43443c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_6b9b3fb6478cd59b3e63133c61205dab639fd567/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_8bfc3feaadef22973129b2ce1f84f72ce8695804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_1b5cb80b7ee7d6ee4d7ace2ce6a57dec94bf7620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_016be1f1fd910857d613fbde717772d41aefeab4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_ff85e2a1e3ff39906921aa47ed9c22d13869f354/classes.dex" />
+    </item>
+
+</items>

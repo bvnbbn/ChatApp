@@ -1,0 +1,7 @@
+#Fri May 19 01:34:47 IST 2017
+base.0=/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68a6d932ef1571d9aaa05c59a57e3405b5b0a10f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3a34df2724f932e93e3d5a3aba7c8157cf3c3d7d/classes.dex
+base.1=/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3a34df2724f932e93e3d5a3aba7c8157cf3c3d7d
+file.0=/home/vikas/Desktop/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68a6d932ef1571d9aaa05c59a57e3405b5b0a10f/classes.dex
